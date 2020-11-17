@@ -5,5 +5,5 @@
 [![Rating](https://img.shields.io/wordpress/plugin/r/dirtysuds-embed-pdf.svg)](https://wordpress.org/support/view/plugin-reviews/dirtysuds-embed-pdf)
 [![Downloads](https://img.shields.io/wordpress/plugin/dt/dirtysuds-embed-pdf.svg)](https://wordpress.org/plugins/dirtysuds-embed-pdf/)
 
-`[embed]http://www.swaroopmanchala.com/static/Resume_Swaroop.pdf[/embed]`
+[embed]http://www.swaroopmanchala.com/static/Resume_Swaroop.pdf[/embed]
 
