@@ -5,4 +5,4 @@
 [![Rating](https://img.shields.io/wordpress/plugin/r/dirtysuds-embed-pdf.svg)](https://wordpress.org/support/view/plugin-reviews/dirtysuds-embed-pdf)
 [![Downloads](https://img.shields.io/wordpress/plugin/dt/dirtysuds-embed-pdf.svg)](https://wordpress.org/plugins/dirtysuds-embed-pdf/)
 
-https://docs.google.com/viewer?url=https://github.com/swaroop9ai9/Time-Series-Analysis/blob/master/Restaurant%20IOT%20Temp%20Forecasting/Group%232_Capstone%20Project_Final%20Report.pdf
+Report Link : https://github.com/swaroop9ai9/Time-Series-Analysis/blob/master/Restaurant%20IOT%20Temp%20Forecasting/Group%232_Capstone%20Project_Final%20Report.pdf
